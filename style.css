@@ -1,6 +1,17 @@
-body{
+@charset "UTF-8";
+body {
+   text-align: center;
     background-color: green;
     color: yellow;
     font-size: 12pt;
     font-family: Arial;
+}
+
+a{
+    color: blue;
+    text-decoration: none;
+}
+
+img{
+    width: 350px;
 }
