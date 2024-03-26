@@ -1,10 +1,22 @@
 @charset "UTF-8";
 body {
    text-align: center;
-    background-color: green;
+   background: rgb(18,85,7);
+background: linear-gradient(90deg, rgba(18,85,7,1) 0%, rgba(35,156,30,1) 25%, rgba(52,215,18,1) 50%, rgba(47,158,29,1) 75%, rgba(18,88,12,1) 100%);
     color: yellow;
     font-size: 12pt;
     font-family: Arial;
+}
+h1{
+    font-family: Arial;
+    font-size: 30pt;
+    color: yellow;
+}
+
+h2{
+    font-family: Arial;
+    font-size: 20pt;
+    color: yellow;
 }
 
 a{
