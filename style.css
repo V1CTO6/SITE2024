@@ -27,10 +27,12 @@ a{
 .dolor{
     color: rgb(6, 6, 252);
     text-shadow: 1px 1px black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 #dolorido{
     color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 img{
