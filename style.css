@@ -10,22 +10,22 @@ background: linear-gradient(90deg, rgba(18,85,7,1) 0%, rgba(35,156,30,1) 25%, rg
 h1{
     font-family: Arial;
     font-size: 30pt;
-    color: yellow;
+    color: rgb(255, 217, 0);
 }
 
 h2{
     font-family: Arial;
     font-size: 20pt;
-    color: yellow;
+    color: rgb(21, 255, 0);
 }
 
 a{
-    color: blue;
+    color: rgb(1, 1, 255);
     text-decoration: none;
 }
 
 .dolor{
-    color: blue;
+    color: rgb(6, 6, 252);
     text-shadow: 1px 1px black;
 }
 
